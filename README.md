@@ -4,6 +4,7 @@ Aplicação desenvolvida para calcular o frete de produtos, utilizando a api dos
 # Tecnologias Utilizadas
 * PHP
 * JavaScript
+* JQuery
 * HTML
 * CSS 
 

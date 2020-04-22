@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+
+html, body, a, img, ol, ul, li {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background: #eee;
+    font-family: 'Open Sans', sans-serif;
+}
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav{
+	display: block;
+}
+ol, ul {
+	list-style: none;
+}
