@@ -54,26 +54,26 @@
                 <h2 class="titulo-seccao">Informações do Produto</h2>
                 <div class="form-group">
                     <label for="n-peso">Peso</label>
-                    <input type="text"  class="number decimal form-control" name="n-peso" id="peso" required />
+                    <input type="text"  class="number decimal form-control" name="n-peso" id="peso" required placeholder="Mínimo: 10Kg"/>
                 </div>
 
                 <div class="form-group">
                     <label for="n-comp">Comprimento</label>
-                    <input type="text" class=" number decimal form-control" name="n-comp" id="comp" required />
+                    <input type="text" class=" number decimal form-control" name="n-comp" id="comp" required placeholder="Mínimo: 16cm"/>
                 </div>
 
                 <div class="form-group">
                     <label for="n-larg">Largura</label>
-                    <input type="text" class="number decimal form-control" name="n-larg" id="larg" required />
+                    <input type="text" class="number decimal form-control" name="n-larg" id="larg" required placeholder="Mínimo: 11cm"/>
                 </div>
                 <div class="form-group">
                     <label for="n-alt">Altura</label>
-                    <input type="text" class="number decimal form-control" name="n-alt" id="alt" required />
+                    <input type="text" class="number decimal form-control" name="n-alt" id="alt" required placeholder="Mínimo: 5cm"/>
                 </div>
 
                 <div class="form-group">
                     <label for="n-val">Valor</label>
-                    <input type="text" class="number decimal form-control" name="n-val" id="val" required />
+                    <input type="text" class="number decimal form-control" name="n-val" id="val" required placeholder="Mínimo: R$21,00"/>
                 </div>
 
                 <div class="form-group">
