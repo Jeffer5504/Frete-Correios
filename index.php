@@ -82,7 +82,7 @@
                             <button type="button" class="prev form-control btn btn-secondary" id="anterior"><i class="fas fa-arrow-left"></i> Anterior</button>
                         </div>
                         <div class="col">
-                            <button type="submit" class="form-control btn btn-success" id="calcular" name="calcular">Calcular</button> 
+                            <button type="submit" class="form-control btn btn-success" id="calcular" name="calcular"><i class="fas fa-calculator"></i> Calcular</button> 
                         </div> 
                     </div>
                 </div>

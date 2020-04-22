@@ -44,5 +44,16 @@ section {display: none;}
     margin-bottom: 20px;
     
 }
+#tabela {
+    max-width: 800px;
+}
+
+.titulo-table {
+    background: #f1c40f;
+    color: #ffffff;
+    height: 40px;
+    font-size: 17pt;
+    line-height: 40px;
+}
 
 .ative{display: block !important;}
