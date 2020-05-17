@@ -1,6 +1,25 @@
 # Frete Correios
 
-Aplicação desenvolvida para calcular o frete de produtos, utilizando a api dos correios.
+Aplicação desenvolvida para obter o valor do frete de produtos, consumindo a api dos correios.
+
+![](https://github.com/Jeffer5504/Frete-Correios/blob/master/gif/Frete-Correios.gif)
+
+## Como usar
+
+1- Instale um servidor PHP, indico o Xampp
+
+https://www.apachefriends.org/pt_br/index.html
+
+2- Clone o repositório dentro da pasta C:\xampp\htdocs que será criada após a instalação do xampp.
+
+```sh
+git clone https://github.com/Jeffer5504/Frete-Correios.git
+```
+
+3- Dentro do browser digite 
+```sh
+localhost/Frete-Correios
+```
 
 # Tecnologias Utilizadas
 
