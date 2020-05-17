@@ -1,59 +1,62 @@
-h1{
-    text-align: center;
+h1 {
+  text-align: center;
 }
 
-#main.container{
-    padding: 0;
+#main.container {
+  padding: 0;
 }
 
 #main {
-    max-width: 800px;
-    margin-top: 50px;
-    background: #ffffff;
-    box-shadow: slategrey 5px 10px 15px;
-    border-radius: 6px;
+  max-width: 800px;
+  margin-top: 50px;
+  background: #ffffff;
+  box-shadow: slategrey 5px 10px 15px;
+  border-radius: 6px;
 }
 
-
-section {display: none;}
-
-
-#main form .titulo-seccao{
-    background: #f1c40f;
-    color: #ffffff;
-    height: 40px;
-    font-size: 17pt;
-    line-height: 40px;
-    padding: 0 10px;
-}
-#main form .form-group{
-    margin: 10px 30px;
+section {
+  display: none;
 }
 
-#calcular{
-    width: 150px;
-    margin-right: 20px;
+#main form .titulo-seccao {
+  background: #f1c40f;
+  color: #ffffff;
+  padding-left: 10px;
+  height: 40px;
+  font-size: 17pt;
+  line-height: 40px;
+  padding: 0 10px;
 }
-#seguinte{
-    width: 150px;
-    margin-left: 550px;
-    margin-bottom: 20px;
+#main form .form-group {
+  margin: 10px 30px;
 }
-#anterior{
-    width: 150px;
-    margin-bottom: 20px;
-    
+
+#calcular {
+  width: 150px;
+  margin-right: 20px;
+}
+#seguinte {
+  width: 150px;
+  margin-left: 550px;
+  margin-bottom: 20px;
+}
+#anterior {
+  width: 150px;
+  margin-bottom: 20px;
 }
 #tabela {
-    max-width: 800px;
+  max-width: 800px;
 }
 
 .titulo-table {
-    background: #f1c40f;
-    color: #ffffff;
-    height: 40px;
-    font-size: 17pt;
-    line-height: 40px;
+  background: #f1c40f;
+  color: #ffffff;
+  padding-left: 10px;
+  height: 40px;
+  font-size: 17pt;
+  line-height: 40px;
 }
 
-.ative{display: block !important;}
+.ative {
+  display: block !important;
+}

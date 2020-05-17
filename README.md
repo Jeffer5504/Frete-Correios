@@ -1,60 +1,43 @@
 # Frete Correios
+
 Aplicação desenvolvida para calcular o frete de produtos, utilizando a api dos correios.
 
 # Tecnologias Utilizadas
-* PHP
-* JavaScript
-* JQuery
-* Bootstrap
-* HTML
-* CSS 
 
-# Padrão de commit
-# Mensagens de commit
+- PHP
+- JavaScript
+- JQuery
+- Bootstrap
+- HTML
+- CSS
 
-Usar modo imperativo ("Adiciona feature" , "Adicionando feature" ou "Adicionada feature")
-Primeira linha deve ter no máximo 72 caracteres
-Considere descrever com detalhes no corpo do commit
-Utilizar um emoji no início da mensagem de commit
+## Padrões de commit
 
-| Emoji                                         |   Commit type              
-|:----------------------------------------------|:---------------------------
-| :tada: `:tada:`                               | Commit inicial             
-| :bookmark: `:bookmark:`                       | Tag de versão              
-| :sparkles: `:sparkles:`                       | Nova feature           
-| :bug: `:bug:`                                 | Correção de bug          
-| :card_index: `:card_index:`                   | Metadata            
-| :books: `:books:`                             | Documentação     
-| :bulb: `:bulb:`                               | Documentando código fontes 
-| :racehorse: `:racehorse:`                     | Desempenho
-| :lipstick: `:lipstick:`                       | Estilo                
-| :rotating_light: `:rotating_light:`           | Testes                
-| :white_check_mark: `:white_check_mark:`       | Adicionando um teste         
-| :heavy_check_mark: `:heavy_check_mark:`       | Fazendo um teste passar         
-| :zap: `:zap:`                                 | Atualização geral             
-| :art: `:art:`                                 | Melhorar formato/estrutura   
-| :hammer: `:hammer:`                           | Refatoração do código            
-| :fire: `:fire:`                               | Removendo código/arquivos      
-| :green_heart: `:green_heart:`                 | Integração contínua    
-| :lock: `:lock:`                               | Segurança         
-| :arrow_up: `:arrow_up:`                       | Atualizando dependências   
-| :arrow_down: `:arrow_down:`                   | Desatualizando dependências              
-| :alien: `:alien:`                             | Tradução                
-| :pencil: `:pencil:`                           | Texto                   
-| :ambulance: `:ambulance:`                     | Correção rápida urgente       
-| :rocket: `:rocket:`                           | Implementando coisas           
-| :apple: `:apple:`                             | Corrigindo no MacOs          
-| :penguin: `:penguin:`                         | Corrigindo no Linux            
-| :checkered_flag: `:checkered_flag:`           | Corrigindo Windows       
-| :construction:  `:construction:`              | Em contrução      
-| :heavy_minus_sign: `:heavy_minus_sign:`       | Removendo uma dependência     
-| :heavy_plus_sign: `:heavy_plus_sign:`         | Adicionando uma dependência                            
-| :wrench: `:wrench:`                           | Configurção de arquivos      
-| :package: `:package:`                         | Package.json em JS         
-| :twisted_rightwards_arrows: `:twisted_rightwards_arrows:` | Mesclando ramificações          
-| :hankey: `:hankey:`                           | Gambiarra / Código ruim   
-| :rewind: `:rewind:`                           | Revertendo mudanças       
-| :boom: `:boom:`                               | Quebrando mudanças       
-| :ok_hand: `:ok_hand:`                         | Alterações na revisão de código      
-| :wheelchair: `:wheelchair:`                   | Acessibilidade       
-| :truck: `:truck:`                             | Mover/enomear repositório     
+- Usar modo imperativo ("Adiciona feature" não "Adicionando feature" ou "Adicionada feature")
+- Primeira linha deve ter no máximo 70 caracteres
+- Considere descrever com detalhes no corpo do commit
+- Obrigatório usar um emoji no início da mensagem de commit
+
+| Emoji          | Código           | Tipo do commit                                |
+| -------------- | ---------------- | --------------------------------------------- |
+| :tada:         | `:tada:`         | initial commit                                |
+| :art:          | `:art:`          | quando melhorar a estrutura/formato do código |
+| :racehorse:    | `:racehorse:`    | quando melhorar a performance                 |
+| :memo:         | `:memo:`         | quando escrever alguma documentação           |
+| :bug:          | `:bug:`          | quando corrigir um bug                        |
+| :fire:         | `:fire:`         | quando remover código ou arquivos             |
+| :lock:         | `:lock:`         | quando melhorar a segurança                   |
+| :poop:         | `:poop:`         | deprecated                                    |
+| :construction: | `:construction:` | em construção                                 |
+| :sparkles:     | `:sparkles:`     | nova feature                                  |
+| :see_no_evil:  | `:see_no_evil:`  | gambiarra                                     |
+| :gift:         | `:gift:`         | nova versão                                   |
+
+### Exemplo
+
+```bash
+git commit -m ":memo: Adiciona instruções de contribuição
+>
+> Foi criado o arquivo README.md com as instruções de
+> como fazer um bom commit
+```
