@@ -1,6 +1,6 @@
 # Frete Correios
 
-Aplicação desenvolvida para obter o valor do frete de produtos, consumindo a api dos correios.
+> Aplicação desenvolvida para obter o valor do frete de produtos, consumindo a api dos correios.
 
 ![](https://github.com/Jeffer5504/Frete-Correios/blob/master/gif/Frete-Correios.gif)
 
