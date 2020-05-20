@@ -4,6 +4,10 @@
 
 ![](https://github.com/Jeffer5504/Frete-Correios/blob/master/gif/Frete-Correios.gif)
 
+ ## 👨🏼‍💻 Desenvolvedor 
+
+- [Jefferson Eloy](https://www.linkedin.com/in/jefferson-eloy-6321a81a8/)
+
 ## Como usar
 
 1- Instale um servidor PHP, indico o Xampp
